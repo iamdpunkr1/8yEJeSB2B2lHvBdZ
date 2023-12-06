@@ -60,5 +60,3 @@ This will create a `dist` directory containing optimized and minified assets tha
 - [Vite](https://vitejs.dev/) - A fast React development server and bundler.
 
 ---
-
-Replace "your-username" and "react-vite-app" with your GitHub username and repository name. Additionally, customize the Acknowledgments section to credit any other libraries, tools, or resources you've used in your project.
