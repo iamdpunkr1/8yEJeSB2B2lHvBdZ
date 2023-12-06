@@ -48,12 +48,12 @@ const BMICalculator = () => {
         <Form>
           <div className="mb-4">
             <label htmlFor="weight" className="block text-gray-700">Weight (kg):</label>
-            <Field type="number" id="weight" name="weight" className="form-input w-full" />
+            <Field type="number" id="weight" name="weight" className="form-input w-full outline outline-black outline-1 p-2 rounded-md" />
             <ErrorMessage name="weight" component="div" className="text-red-500 text-sm" />
           </div>
           <div className="mb-4">
             <label htmlFor="height" className="block text-gray-700">Height (m):</label>
-            <Field type="number" id="height" name="height" className="form-input w-full" />
+            <Field type="number" id="height" name="height" className="form-input w-full  outline outline-black outline-1 p-2 rounded-md" />
             <ErrorMessage name="height" component="div" className="text-red-500 text-sm" />
           </div>
           <div className="mb-4">
