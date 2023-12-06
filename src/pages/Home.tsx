@@ -12,9 +12,14 @@ const Home = () => {
         </section>
         <section className="mb-6">
           <h2 className="text-3xl font-bold mb-4">Download Resume</h2>
-          <Link to="/dipankar__resume.pdf" download className="text-blue-500 underline hover:text-blue-700">
+          <a
+            href="../assets/dipankar__resume.pdf"
+            download
+            target="_blank"
+            className="text-blue-500 underline hover:text-blue-700"
+          >
             Download Resume
-          </Link>
+          </a>
         </section>
         <section>
           <h2 className="text-3xl font-bold mb-4">BMI Calculation</h2>
