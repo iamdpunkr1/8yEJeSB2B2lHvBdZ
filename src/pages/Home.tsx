@@ -13,7 +13,7 @@ const Home = () => {
         <section className="mb-6">
           <h2 className="text-3xl font-bold mb-4">Download Resume</h2>
           <a
-            href="/8yEJeSB2B2lHvBdZ/assets/dipankar__resume.pdf"
+            href="https://drive.google.com/file/d/1Dc8Ohf6a-FIh-9eLAqLfMtb8OPt9zhuc/view?usp=sharing"
             download
             target="_blank"
             className="text-blue-500 underline hover:text-blue-700"
