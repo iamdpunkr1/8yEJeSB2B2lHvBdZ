@@ -24,7 +24,7 @@ const Home = () => {
         <section>
           <h2 className="text-3xl font-bold mb-4">BMI Calculation</h2>
           <p>
-            <Link to="/bmi" className="text-blue-500 underline hover:text-blue-700">
+            <Link to="/8yEJeSB2B2lHvBdZ/bmi" className="text-blue-500 underline hover:text-blue-700">
               Calculate BMI
             </Link>
           </p>
