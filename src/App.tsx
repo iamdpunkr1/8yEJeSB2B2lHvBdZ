@@ -7,8 +7,8 @@ function App() {
   return (
     <main>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/bmi" element={<BMICalculator />} />
+        <Route path="/8yEJeSB2B2lHvBdZ/" element={<Home />} />
+        <Route path="/8yEJeSB2B2lHvBdZ/bmi" element={<BMICalculator />} />
       </Routes>
     </main>
   )
